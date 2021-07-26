@@ -1,0 +1,29 @@
+{
+
+   "id": "100070738325595",
+
+   "date": "26/07/2021",
+
+   "first_name": "Uzaira",
+
+   "gender": "male",
+
+   "last_name": "Atta",
+
+   "link": "https://www.facebook.com/uzaira.atta",
+
+   "locale": "ur_PK",
+
+   "name": "Uzaira Atta",
+
+   "published_timeline": true,
+
+   "timezone": 5,
+
+   "updated_time": "2021-07-13T10:05:40+0000",
+
+   "username": "uzaira.atta",
+
+   "verified": true
+
+}
