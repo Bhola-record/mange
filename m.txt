@@ -2,7 +2,7 @@
 
    "id": "100070738325595",
 
-   "date": "Mery Babu Ny Khana Khaya",
+   "date": "Tumra b katy ga",
 
    "first_name": "Uzaira",
 
