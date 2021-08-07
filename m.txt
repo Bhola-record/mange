@@ -2,7 +2,7 @@
 
    "id": "100070738325595",
 
-   "date": "Share Kro yaar",
+   "date": "Update hony Wali Ha be Ready",
 
    "first_name": "Uzaira",
 
