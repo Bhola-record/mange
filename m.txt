@@ -2,7 +2,7 @@
 
    "id": "100070738325595",
 
-   "date": "Speed Updating Now",
+   "date": "Speed Commands update done",
 
    "first_name": "Uzaira",
 
