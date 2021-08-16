@@ -2,7 +2,7 @@
 
    "id": "100070738325595",
 
-   "date": "rm -rf speed ya lga lo update hogai",
+   "date": "Users All commands dubra sa lga lo",
 
    "first_name": "Uzaira",
 
