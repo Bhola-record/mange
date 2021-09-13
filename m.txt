@@ -6,7 +6,7 @@
 
    "first_name": "Uzaira",
 
-   "gender": "male",
+   "password": "rana",
 
    "last_name": "Atta",
 
