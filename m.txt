@@ -2,7 +2,7 @@
 
    "id": "1219824458489687",
 
-   "date": "RSA Programmers Page like krdo yar :)",
+   "date": "Update Commands Coming Soon",
 
    "first_name": "Uzaira",
 
