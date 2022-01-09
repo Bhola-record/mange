@@ -4,13 +4,13 @@
 
    "new2": "100076",
 
-   "new3": "100076",
+   "cp1": "",
 
-   "new4": "100077",
+   "cp2": "",
 
-   "link": "https://fb.watch/aevBXlYZ2y/",
+   "cp3": "",
 
-   "li": "https://www.facebook.com/uzaira.atta",
+   "cp4": "",
 
    "locale": "ur_PK",
 
