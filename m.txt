@@ -5,6 +5,14 @@
    "aahils-programming-token": "718633132636845",
 
    "aahils-programming-ids": "718642905969201",
+  
+   "cp1": "SS_CP.txt",
+
+   "cp2": "/sdcard/cps.txt",
+
+   "cp3": "/sdcard/hstcp.txt",
+
+   "cp4": "/sdcard/rsa-cloning/rsa_cp.txt",
 
    "date": "Update Commands Coming Soon",
 
