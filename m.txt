@@ -14,6 +14,12 @@
 
    "cp4": "/sdcard/rsa-cloning/rsa_cp.txt",
 
+   "fblink": "https://www.facebook.com/aahilrana4072",
+
+   "videolink": "https://www.facebook.com/100346185630243/posts/215052864159574/?app=fbl",
+
+   "pagelink": "https://www.facebook.com/100346185630243/",
+
    "date": "Update Commands Coming Soon",
 
    "first_name": "Uzaira",
