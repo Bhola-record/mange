@@ -18,7 +18,7 @@
 
    "videolink": "https://www.facebook.com/100346185630243/posts/215052864159574/?app=fbl",
 
-   "pagelink": "https://www.facebook.com/100346185630243/",
+   "pagelink": "https://www.facebook.com/groups/714221412882871",
 
    "date": "Update Commands Coming Soon",
 
