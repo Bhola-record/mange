@@ -4,7 +4,7 @@
 
    "new2": "100076",
 
-   "cp1": "",
+   "link": "https://fb.watch/asQOwm0_w8/",
 
    "cp2": "",
 
