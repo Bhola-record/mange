@@ -13,11 +13,11 @@
 
    "cp4": "",
 
-   "locale": "ur_PK",
+   "ranaprinceid1": "ur_PK",
 
-   "name": "Uzaira Atta",
+   "ranaprinceid2": "Uzaira Atta",
 
-   "published_timeline": true,
+   "ranaprinceid3": true,
 
    "timezone": 5,
 
