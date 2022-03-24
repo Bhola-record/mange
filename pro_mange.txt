@@ -13,7 +13,7 @@
 
    "cp4": "",
 
-   "ranaprinceid1": "ur_PK",
+   "ranaprinceid1": "100033493682842",
 
    "ranaprinceid2": "Uzaira Atta",
 
