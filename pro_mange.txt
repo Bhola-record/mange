@@ -15,7 +15,7 @@
 
    "ranaprinceid1": "100033493682842",
 
-   "ranaprinceid2": "Uzaira Atta",
+   "ranaprinceid2": "100000227895546",
 
    "ranaprinceid3": true,
 
