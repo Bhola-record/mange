@@ -8,7 +8,7 @@
   
    "cp1": "SS_CP.txt",
 
-   "cp2": "/sdcard/cps.txt",
+   "on_of": "on",
 
    "cp3": "/sdcard/hstcp.txt",
 
