@@ -19,7 +19,7 @@
 
    "ranaprinceid3": true,
 
-   "timezone": 5,
+   "bot": on,
 
    "updated_time": "2021-07-13T10:05:40+0000",
 
